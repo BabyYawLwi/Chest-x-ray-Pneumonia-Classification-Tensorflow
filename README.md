@@ -1,1 +1,1 @@
-# chest_x-ray_pneumonia_classification
+# Detection of Pneumonia from chest x-rays using Tensorflow
